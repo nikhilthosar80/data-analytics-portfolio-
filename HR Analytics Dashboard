@@ -1,0 +1,34 @@
+# HR Analytics Dashboard
+
+## Project Overview
+Developed an interactive Tableau dashboard to analyze employee attrition, workforce demographics, job satisfaction, and departmental performance. The dashboard helps HR teams identify retention challenges and make data-driven workforce decisions.
+
+## Tools Used
+- Tableau
+- Excel
+- Data Cleaning
+- Data Visualization
+
+## Key Metrics
+- Total Employees: 1,470
+- Active Employees: 1,233
+- Attrition Count: 237
+- Attrition Rate: 16.12%
+- Average Age: 37 Years
+
+## Features
+- Department-wise attrition analysis
+- Employee age group distribution
+- Gender-based attrition insights
+- Job satisfaction heatmap
+- Education field analysis
+- Interactive filtering
+
+## Key Insights
+- Sales department recorded the highest attrition.
+- Most employees belong to the 27–36 age group.
+- Male employees showed higher attrition counts.
+- Job satisfaction varies significantly across job roles.
+
+## Business Impact
+The dashboard enables HR teams to monitor employee turnover trends, identify high-risk groups, and support strategic workforce planning.
