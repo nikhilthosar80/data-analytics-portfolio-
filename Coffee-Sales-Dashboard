@@ -1,0 +1,30 @@
+# Coffee Sales Dashboard
+
+## Project Overview
+This Power BI dashboard analyzes coffee shop sales performance across products, weekdays, and time periods to identify revenue trends and customer purchasing behavior.
+
+## Tools Used
+- Power BI
+- Excel
+- Data Cleaning
+- Data Visualization
+
+## Key KPIs
+- Total Sales Amount: ₹112.25K
+- Product-wise Revenue Analysis
+- Weekday Sales Distribution
+- Time-of-Day Sales Analysis
+
+## Features
+- Interactive slicers for Month and Weekday
+- Product performance tracking
+- Sales trend analysis
+- Customer purchase pattern insights
+
+## Business Insights
+- Identified top-performing coffee products.
+- Analyzed sales distribution across weekdays.
+- Compared Morning, Afternoon, and Night sales patterns.
+- Enabled interactive exploration of sales data.
+
+
